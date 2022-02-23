@@ -50,11 +50,12 @@ body{
     font-weight: 400px;
     font-size: 18px;
 }
-.cabecalho-menu-gihub{
+.cabecalho-menu-github{
     font-family: 'Roboto', sans-serif;
     color: #FFFFFF;
     font-weight: 400px;
     font-size: 18px;
+    
 }
 .cabecalho-menu-menus{
     font-family: 'Roboto', sans-serif;
@@ -62,7 +63,9 @@ body{
     font-weight: 400px;
     font-size: 18px;
 }
-
+.conteudo{
+    border-top:0.4px solid #FFFFFF ;
+}
 
 
 
