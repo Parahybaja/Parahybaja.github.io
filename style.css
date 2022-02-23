@@ -81,6 +81,13 @@ body{
     gap: 32px;
 
 }
+.conteudo-principal-texto-titulo{
+    font-family: 'Roboto', sans-serif;
+    background: #FFFFFF;
+    font-weight: 300px;
+    font-size: 40px;
+
+}
 
 
 
