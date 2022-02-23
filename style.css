@@ -28,7 +28,7 @@ body{
     height: 52px;
     width: 182px;
 }
-.cabecalho-manu{
+.cabecalho-menu{
     display: flex;
     gap: 32px;
 }
