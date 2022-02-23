@@ -68,6 +68,13 @@ body{
     border-top:0.4px solid #FFFFFF ;
 }
 
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
 
 
 
