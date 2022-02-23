@@ -23,9 +23,9 @@ body{
     align-items: center;
     justify-content: space-around;
     padding: 24px;
+    Width: 1170px;
+    Height:55px;
 }
-
-
 
 
 
@@ -56,3 +56,50 @@ body{
 
     align-content:flex-end
 }
+
+.cabecalho-imagem{
+    height: 52px;
+    width: 182px;
+}
+.cabecalho-menu{
+    display: flex;
+    gap: 32px;
+}
+.cabecalho-menu-instagram{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 18px;
+}
+.cabecalho-menu-facebook{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 18px;
+}
+.cabecalho-menu-linkedin{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 18px;
+}
+.cabecalho-menu-github{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 18px;
+    
+}
+.cabecalho-menu-menus{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 18px;
+}
+.conteudo{
+    border-top:0.4px solid #FFFFFF ;
+}
+
+
+
+
