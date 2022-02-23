@@ -24,3 +24,11 @@ body{
     justify-content: space-around;
     padding: 24px;
 }
+.cabecalho-imagem{
+    height: 52px;
+    width: 182px;
+}
+.cabecalho-manu{
+    display: flex;
+    gap: 32px;
+}
