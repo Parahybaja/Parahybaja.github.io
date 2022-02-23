@@ -9,7 +9,14 @@
 }
 
 body{
+    
     font-size: 100%;
     background: rgba(105, 21, 32, 0.94);
 
+}
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
 }
