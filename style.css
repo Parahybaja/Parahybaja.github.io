@@ -65,7 +65,8 @@ body{
     font-size: 18px;
 }
 .conteudo{
-    border-top:0.4px solid #FFFFFF ;
+    border-top:0.4px solid #FFFFFF;
+    border-bottom: 0.4 solid #15151D;
 }
 
 .conteudo-principal{
