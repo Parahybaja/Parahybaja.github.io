@@ -32,3 +32,12 @@ body{
     display: flex;
     gap: 32px;
 }
+.cabecalho-menu-instagram{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 18px;
+
+
+
+}
