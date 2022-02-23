@@ -24,3 +24,35 @@ body{
     justify-content: space-around;
     padding: 24px;
 }
+
+
+
+
+
+.conteudo-secundario {
+
+    background: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.conteudo-subsistemas{
+
+    background: #691520;
+    font-family: 'Roboto', sans-serif;
+}
+
+.rodape {
+    background: #15151D;
+    font-family: 'Roboto', sans-serif;
+}
+
+.conteudo-secundario-texto-titulo {
+    align-items:center
+}
+
+
+.conteudo-secundario-texto-paragrafo {
+
+    align-content:flex-end
+}
