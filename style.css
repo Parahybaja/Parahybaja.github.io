@@ -12,7 +12,9 @@ body{
     
     font-size: 100%;
     background: rgba(105, 21, 32, 0.94);
-
+    background: #15151D;
+    background: #FFFFFF;
+    
 }
 .cabecalho{
     display: flex;
