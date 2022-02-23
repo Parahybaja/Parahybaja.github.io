@@ -37,7 +37,32 @@ body{
     color: #FFFFFF;
     font-weight: 400px;
     font-size: 18px;
-
-
-
 }
+.cabecalho-menu-facebook{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 18px;
+}
+.cabecalho-menu-linkedin{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 18px;
+}
+.cabecalho-menu-gihub{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 18px;
+}
+.cabecalho-menu-menus{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 18px;
+}
+
+
+
+
