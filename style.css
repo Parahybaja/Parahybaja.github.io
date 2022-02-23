@@ -66,7 +66,7 @@ body{
 }
 .conteudo{
     border-top:0.4px solid #FFFFFF;
-    border-bottom: 0.4px solid #15151D;
+
 }
 
 .conteudo-principal{
@@ -74,6 +74,12 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
+}
+.conteudo-principal-texto{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
 }
 
 
