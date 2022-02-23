@@ -14,7 +14,7 @@ body{
     background: rgba(105, 21, 32, 0.94);
    
    
-    
+   
 }
 .cabecalho{
     background: #15151D;
@@ -94,6 +94,8 @@ body{
 .rodape {
     background: #15151D;
     font-family: 'Roboto', sans-serif;
+    border-top:0.4px solid #FFFFFF ;
+
 }
  
 .conteudo-secundario-texto-titulo {
